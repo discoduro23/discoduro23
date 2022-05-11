@@ -2,7 +2,7 @@
 <h3 align="center">A rookie developer of software and videogames from USJ</h3>
 
 
-- 🔭 I’m currently working on [Balanced Objects game](play.google.com/store/apps/details?id=com.USJugadores.BalancedObjects&gl=ES)
+- 🔭 I’m currently working on [Balanced Objects game](https://play.google.com/store/apps/details?id=com.USJugadores.BalancedObjects)
 
 - 🌱 I’m currently learning **Unity and C#**
 
