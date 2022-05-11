@@ -18,6 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=discoduro23&show_icons=true&locale=en&theme=onedark" alt="discoduro23" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=discoduro23&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=discoduro23&theme=onedark" alt="discoduro23" /></a> </p>
