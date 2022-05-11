@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Sanchez</h1>
 <h3 align="center">A rookie developer of software and videogames from USJ</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pendraiver2" alt="pendraiver2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=discoduro23" alt="discoduro23" /></a> </p>
 
 - 🔭 I’m currently working on [Balanced Objects game](play.google.com/store/apps/details?id=com.USJugadores.BalancedObjects&gl=ES)
 
