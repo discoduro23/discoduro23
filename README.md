@@ -2,10 +2,6 @@
 <h3 align="center">A rookie developer of software and videogames from USJ</h3>
 
 
-- 🔭 I’m currently working on [Balanced Objects game](https://play.google.com/store/apps/details?id=com.USJugadores.BalancedObjects)
-
-- 🌱 I’m currently learning **Unity and C#**
-
 - 📫 How to reach me **alu.115081@usj.es**
 
 <h3 align="left">Connect with me:</h3>
