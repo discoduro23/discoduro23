@@ -9,7 +9,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=discoduro23&show_icons=true&locale=en&theme=onedark" alt="discoduro23" /></p>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=discoduro23&langs_count=4&theme=onedark&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=discoduro23&show_icons=true&locale=en&theme=onedark" alt="discoduro23" /></p>
