@@ -9,8 +9,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=discoduro23&langs_count=4&theme=onedark&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=discoduro23&show_icons=true&locale=en&theme=onedark" alt="discoduro23" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=discoduro23&theme=onedark" alt="discoduro23" /></a> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=discoduro23&langs_count=4&theme=onedark&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
